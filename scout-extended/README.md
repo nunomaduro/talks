@@ -1,4 +1,10 @@
-Laravel Scout provides a simple, driver based solution for adding full-text search to your Eloquent models.
+## Scout Extended
+
+- Type: Entry level
+- Length: 30 min including questions
+- Project: [Scout Extended](https://github.com/algolia/scout-extended)
+
+Laravel Scout provides a simple, driver-based solution for adding full-text search to your Eloquent models.
 
 But because [Laravel Scout](https://laravel.com/docs/scout) is search engine-agnostic, it keeps things basic. For indexing, this isn't an issue, as Scout will help keep everything in sync and format your data the way you want. But for search, it's limited.
 
