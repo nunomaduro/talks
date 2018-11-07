@@ -146,10 +146,6 @@ return view('index', compact('models'));
 
 ---
 
-# [fit] Open Source
-
----
-
 # [fit] github.com/algolia/scout-extended
 _**nunomaduro.com**_
 Twitter: _**@enunomaduro**_
