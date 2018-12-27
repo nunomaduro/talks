@@ -10,5 +10,5 @@ full-featured language. However, at the same time, there is a lot of outdated in
 This talk is about writing PHP Code that is: safe, robust, maintainable, and optimized for the reader. We are going to cover a set of rules, that if you
 follow them; they will get you on the habit of writing code well.
 
-Get ready for a 20 min/35min live-coding session where rules will be illustrated with a real practical example. You will learn how to design classes, re-thinking about their public API preventing breaking changes. You will also discover concepts about methods design and variables
-naming, exceptions, and more about general programming.
+Get ready for a 20 to 35 min live-coding session, where I go through practical examples. You will learn how to design classes, how
+to think about your API to prevent breaking changes, and discover concepts around method design, variable naming, exceptions, and much more.
