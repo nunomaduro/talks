@@ -4,7 +4,7 @@
 - Length: 45 min or 30 min
 - Project: TBD
 
-PHP has evolved massively since his first days, and it's on the road to a
+PHP has evolved massively since its first days, and it's on the road to a
 full-featured language. However, at the same time, there is a lot of outdated information and libraries with poorly written code.
 
 This talk is about writing PHP Code that is: safe, robust, maintainable, and optimized for the reader. We are going to cover a set of rules, that if you
