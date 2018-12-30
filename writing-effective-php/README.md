@@ -2,7 +2,6 @@
 
 - Type: Mid-level
 - Length: 45 min or 30 min
-- Project: TBD
 
 PHP has evolved massively since its first days, and it's on the road to a full-featured language. However, at the same time, there is a lot of outdated information and libraries with poorly written code.
 
