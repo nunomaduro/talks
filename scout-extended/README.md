@@ -1,4 +1,4 @@
-## Scout Extended
+## Laravel Scout Extended
 
 - Type: Entry level
 - Length: 30 min including questions
