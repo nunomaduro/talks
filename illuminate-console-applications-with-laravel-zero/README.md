@@ -1,4 +1,4 @@
-## Laravel Zero
+## Illuminate Console Applications with Laravel Zero
 
 - Type: Entry level
 - Length: 30 min including questions
