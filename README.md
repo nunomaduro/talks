@@ -6,4 +6,4 @@ Software engineer at [Algolia](https://algolia.com). Creator of [Laravel Zero](h
 
 ## My Favorites talks
 
-Effective Unit Testing by Eliotte Rusty Harold: https://www.youtube.com/watch?v=fr1E9aVnBxw
+- Effective Unit Testing by Eliotte Rusty Harold: https://www.youtube.com/watch?v=fr1E9aVnBxw
