@@ -1,5 +1,6 @@
 ## Writing Effective PHP
 
+- Title: Writing Effective PHP
 - Type: Mid-level
 - Length: 30min
 
