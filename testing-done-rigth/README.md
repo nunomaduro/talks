@@ -1,7 +1,8 @@
 ## Testing Done Right
 
+- Title: Testing Done Right
 - Type: Mid-level
-- Length: 30min
+- Length: 30min/45min
 
 ## If I attend your session, what practical capability will I bring back to my team and be able to implement next week?
 
