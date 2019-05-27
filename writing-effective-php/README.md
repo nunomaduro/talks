@@ -18,9 +18,9 @@ Get ready for a 25 min live-coding session, where I go through practical example
 
 ## Speaker
 
-Salut! My name is Nuno Maduro, and I am a member of the PHP community for a long time now. Last year, I made a total of 2,562 open source contributions. And I have spoken at conferences such as ForumPHP in Paris - France, or Laravel Live India.
+Salut! My name is Nuno Maduro, and I am a member of the PHP community for a long time now. Last year, I made a total of 2,562 open source contributions. And I have spoken at conferences such as PHP Serbia, Laracon EU, ForumPHP France, or Laravel Live India.
 
-I have a close relationship with the Laravel community, as I have contributed to the core of the framework and created tons of open source packages for Laravel, such as Laravel Zero, Scout Extended, Collision, Larastan, and more.
+I have a close relationship with the Laravel community, as I have contributed to the core of the framework. I also have created tons of open source packages such as PHP Insights, Laravel Zero, Scout Extended, Collision, Larastan, and more.
 
 I also maintain the open source API clients and integrations at Algolia, where I have to write robust, safe, and maintainable code.
 
